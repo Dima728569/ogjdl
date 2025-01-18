@@ -1,3 +1,5 @@
+#include <Arduino.h>
+#line 1 "C:\\Users\\User\\Desktop\\arduino_shit_again\\arduino_shit_again.ino"
 /*
   Blink
 
@@ -23,6 +25,11 @@
 */
 
 // the setup function runs once when you press reset or power the board
+#line 26 "C:\\Users\\User\\Desktop\\arduino_shit_again\\arduino_shit_again.ino"
+void setup();
+#line 32 "C:\\Users\\User\\Desktop\\arduino_shit_again\\arduino_shit_again.ino"
+void loop();
+#line 26 "C:\\Users\\User\\Desktop\\arduino_shit_again\\arduino_shit_again.ino"
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
   pinMode(LED_BUILTIN, OUTPUT);

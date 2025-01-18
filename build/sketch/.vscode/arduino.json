@@ -1,0 +1,8 @@
+#line 1 "C:\\Users\\User\\Desktop\\arduino_shit_again\\.vscode\\arduino.json"
+{
+    "port": "COM3",
+    "board": "arduino:avr:uno",
+    "programmer": "avrisp",
+    "sketch": "arduino_shit_again.ino",
+    "output": "build"
+}
